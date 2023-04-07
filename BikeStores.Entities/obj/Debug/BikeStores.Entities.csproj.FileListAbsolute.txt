@@ -1,0 +1,6 @@
+D:\Yazilim\C#\CSharpCourse\NLayeredAppDemo\BikeStores.Entities\bin\Debug\BikeStores.Entities.dll
+D:\Yazilim\C#\CSharpCourse\NLayeredAppDemo\BikeStores.Entities\bin\Debug\BikeStores.Entities.pdb
+D:\Yazilim\C#\CSharpCourse\NLayeredAppDemo\BikeStores.Entities\obj\Debug\BikeStores.Entities.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\NLayeredAppDemo\BikeStores.Entities\obj\Debug\BikeStores.Entities.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\NLayeredAppDemo\BikeStores.Entities\obj\Debug\BikeStores.Entities.dll
+D:\Yazilim\C#\CSharpCourse\NLayeredAppDemo\BikeStores.Entities\obj\Debug\BikeStores.Entities.pdb
